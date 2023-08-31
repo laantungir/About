@@ -13,5 +13,3 @@
 * NPMJS.com
 
 * Browserfy
-# About
-# About
