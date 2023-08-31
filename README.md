@@ -12,4 +12,4 @@
 * NPM
 * NPMJS.com
 
-* Browserfy
+* Webpack
